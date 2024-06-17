@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.ui": "xml",
+        "Makefile.*": "makefile",
+        "*.include": "makefile",
+        "*.dict": "tcl",
+        "*.*dump": "json",
+        "*.xci": "json",
+        "*.do": "tcl",
+        "*.adc": "tcl",
+        "*.bs": "haskell",
+        "usart.h": "c",
+        "uart_com.h": "c",
+        "test_command.h": "c"
+    }
+}
