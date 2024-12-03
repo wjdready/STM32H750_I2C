@@ -9,8 +9,14 @@
         "*.do": "tcl",
         "*.adc": "tcl",
         "*.bs": "haskell",
+        "*.qrc": "xml",
+        ".clangd": "yml",
+        "*.uni": "c",
+        "*.cmake.in": "cmake",
         "usart.h": "c",
         "uart_com.h": "c",
-        "test_command.h": "c"
+        "test_command.h": "c",
+        "lwrb.h": "c",
+        "usbd_cdc_if.h": "c"
     }
 }

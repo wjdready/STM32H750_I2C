@@ -4,7 +4,7 @@
 #define UART_COM_MAX (sizeof(uart_coms) / sizeof(uart_com_dma_t))
 
 /* 将 UART 绑定到标准输入输出 */
-#define UART_BIND_STDIO &huart4
+// #define UART_BIND_STDIO &huart4
 
 typedef struct
 {
